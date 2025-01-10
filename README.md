@@ -176,6 +176,4 @@ FROM PortfolioProject..CovidDeaths;
 
 ---
 
-## **Project Files**
-- **SQL Script**: [Download the full SQL file here](#) *(Link to be added on GitHub)*.
 
